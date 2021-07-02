@@ -1,0 +1,24 @@
+{
+  "name": "digital-ocean---book-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuanth2021pc07/digital-ocean-book-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuanth2021pc07/digital-ocean-book-scraper/issues"
+  },
+  "homepage": "https://github.com/kuanth2021pc07/digital-ocean-book-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
